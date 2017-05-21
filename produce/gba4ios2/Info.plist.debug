@@ -1,0 +1,1 @@
+produce -gba4ios2/info.plist.debug --skip_itc
